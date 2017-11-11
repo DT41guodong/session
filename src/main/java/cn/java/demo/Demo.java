@@ -12,4 +12,8 @@ public class Demo {
     public void sleep(int name) {
         System.out.println("root");
     }
+
+    public void show2(int a) {
+        System.out.println(a);
+    }
 }
